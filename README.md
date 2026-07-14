@@ -141,6 +141,22 @@ Dashboard Preview
 
 <img width="1679" height="763" alt="Screenshot 2026-07-14 235504" src="https://github.com/user-attachments/assets/1f32fc3a-a1c3-4e61-a466-26fa55673b16" />
 
+---
+
+<img width="1679" height="833" alt="Screenshot 2026-07-14 235517" src="https://github.com/user-attachments/assets/9a3a951a-7ff4-40b7-b31b-b58a1b164d89" />
+
+
+---
+
+<img width="1678" height="745" alt="Screenshot 2026-07-14 235541" src="https://github.com/user-attachments/assets/d82e538c-cc79-45f9-97b7-6587a27a81ee" />
+
+
+---
+
+<img width="1680" height="761" alt="Screenshot 2026-07-14 235555" src="https://github.com/user-attachments/assets/779f6b24-a3ae-4597-9749-6b261fc592d3" />
+
+
+---
 
 ## 📁 Repository Contents
 ```
@@ -156,11 +172,5 @@ Dashboard Preview
 2. Open with **Tableau Desktop** (or **Tableau Reader** for view-only access) — version 2026.2 or later recommended.
 3. Navigate to the **Story** tab to walk through the narrated insights, or explore the dashboard directly using the Town / Year / Property Type filters and the Metric parameter.
 
----
-
-## 👤 Author
 
 
-Feel free to connect for feedback or collaboration.
-
-⭐ If you found this project useful, consider starring the repository!
