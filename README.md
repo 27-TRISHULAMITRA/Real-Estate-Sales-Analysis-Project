@@ -101,7 +101,6 @@ A **4-slide Tableau Story** narrates the analysis end to end:
 
 https://public.tableau.com/app/profile/trishula.mitra/viz/Tableau_Real_Estate_Sale_Analysis_Project/Dashboard?publish=yes
 
-
 ---
 
 Dashboard Preview
