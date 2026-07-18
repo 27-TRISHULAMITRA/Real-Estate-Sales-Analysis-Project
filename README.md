@@ -121,6 +121,7 @@ A **4-slide Tableau Story** narrates the analysis end to end:
 
 https://public.tableau.com/app/profile/trishula.mitra/viz/Tableau_Real_Estate_Sale_Analysis_Project/Dashboard?publish=yes
 
+
 ---
 
 Dashboard Preview
@@ -183,9 +184,9 @@ Dashboard Preview
 
 ## 📁 Repository Contents
 ```
-├── Real_Estate_Sales_Analyzing.twbx                 # Packaged workbook (data + dashboard + story)
-├── Tableau_Assignment.pdf                            # Original project brief
-└── README.md                                         # Project documentation (this file)
+├── README.md
+├── Tableau_Assignment.pdf            # Original project brief
+└── Real_Estate_Sales_Analyzing.twbx  # Packaged workbook (data + dashboard + story)                                     # Project documentation (this file)
 
 ---
 
