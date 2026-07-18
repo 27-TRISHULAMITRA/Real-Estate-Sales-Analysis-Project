@@ -74,17 +74,37 @@ A **4-slide Tableau Story** narrates the analysis end to end:
 
 ---
 
-## 📊 Key Insights
 
-- Property sales activity is **concentrated in a handful of towns**, which consistently drive the largest share of total transaction value.
-- **Sales Ratio** (Assessed ÷ Sale value) varies meaningfully by town and residential type, flagging municipalities where assessments may be lagging market prices — a direct input for **reassessment/taxation policy**.
-- Sales volume shows clear **seasonality**, with predictable monthly peaks useful for planning zoning-office staffing and review cycles.
-- **Single-Family** and **Condo** residential types dominate sales volume, while higher-value categories are concentrated in fewer towns.
-- The **High/Medium/Low Sale Category split** highlights where luxury/high-value transactions are clustering geographically — useful for targeted zoning review.
+*Short Summary: Key Findings — Real Estate Sales Analysis (2011–2022)*
+
+
+
+1. *Market growth followed by a sharp correction.* Sales rose steadily from $2.6B (2010) to $25.35B (2020), spiked to a peak of $40.25B in 2021, then fell nearly 45% to $22.11B in 2022. The 2021 figure is an anomaly, not the market's new normal.
+
+
+2. *Town-level pricing is largely stable, with two outliers.* Most towns hold sales ratios between 0.70–1.30 (properties selling close to assessed value) — a sign of healthy, well-calibrated assessments. Bellingham (37.15) and Keene (21.30) break this pattern sharply, most likely due to isolated Single Family transactions or data errors rather than real market shifts.
+
+
+
+3. *Value is concentrated in one property category.* Although the market includes 11 property types with fairly even representation by count, Single Family homes alone account for $143.85B in sales — more than 2.6x every other category combined. Diversity in category count doesn't mean diversity in revenue contribution.
+
+
+4. *Sales activity is seasonal.* Monthly/yearly trend charts show recurring peaks and troughs across the year, useful for planning municipal review cycles and staffing around high-transaction periods.
+
+
+5. *A small number of towns drive most transaction value.* The "Total Sale Amount by Town" analysis shows sales concentrated among top-performing towns, while the majority contribute comparatively little — relevant for prioritizing zoning attention and tax-policy focus.
+
+
 
 ---
 
-## 🧰 Skills Demonstrated
+
+*Recommendation:* Anchor forecasting and resource planning to the $22–25B sustainable range rather than the 2021 peak. Prioritize Single Family and Condo categories in demand/pricing models. Validate the Bellingham and Keene records before using them in town comparisons, since their sales ratios likely reflect data anomalies rather than true market behavior.
+
+
+---
+
+##  Skills Demonstrated
 
 - Data cleaning & shaping for BI visualization
 - Calculated fields, parameters, and dynamic (CASE-based) measures
@@ -104,11 +124,15 @@ https://public.tableau.com/app/profile/trishula.mitra/viz/Tableau_Real_Estate_Sa
 ---
 
 Dashboard Preview
-📌 Add your screenshots below — export images from Tableau (Worksheet/Dashboard → Export → Image) and place them in an images/ folder in your repo, then update the paths.
+
+ Add your screenshots below — export images from Tableau (Worksheet/Dashboard → Export → Image) and place them in an images/ folder in your repo, then update the paths.
+
 
 <img width="1881" height="853" alt="Screenshot 2026-07-14 235215" src="https://github.com/user-attachments/assets/578a82e6-542f-4818-99a1-5e27d00cff91" />
 
+
 ---
+
 <img width="1441" height="830" alt="Screenshot 2026-07-14 235236" src="https://github.com/user-attachments/assets/7b717697-47de-4c14-91c6-7fda3893642b" />
 
 ---
